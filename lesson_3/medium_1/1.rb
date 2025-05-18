@@ -1,0 +1,1 @@
+10.times { |index| puts "The Flintstones Rock!".prepend(" " * index) }
