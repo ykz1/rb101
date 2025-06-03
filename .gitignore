@@ -3,3 +3,5 @@
 db/*.sqlite3
 
 .DS_Store
+
+rb109_prep/written_quiz
